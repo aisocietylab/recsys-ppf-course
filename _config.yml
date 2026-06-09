@@ -8,7 +8,7 @@ name: "Your Name"
 description: "Test website."
 url: https://aisocietylab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # the subpath of your site, e.g. "/blog" (for github.io this should be your repository name!)
-baseurl: ""
+baseurl: "/recsys-ppf-course"
 repository: "aisocietylab/group-website-pages" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 atom_feed:
