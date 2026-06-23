@@ -2,14 +2,12 @@
 layout: project
 project:
   authors:
-    - name: "First Author"
-      url: "first-author-personal-link"
-    - name: "Second Author"
-      url: "second-author-personal-link"
-    - name: "Third Author"
-      url: "third-author-personal-link"
+    - name: "Markus Reiter-Haas"
+      url: "https://iseratho.github.io"
+    - name: "Elisabeth Lex"
+      url: "https://elisabethlex.info"
   institution: "AI for Society Lab"
-  conference: "Conference'Year"
+  conference: "2026"
 
   links:
     - label: Paper
@@ -24,12 +22,12 @@ project:
 
 
   teaser:
-    image: "/assets/images/teaser-example.jpg"
+    image: "/assets/images/RecSys_PPF_Teaser_Image_Styled.png"
     alt_text: "Teaser image alt text"
     caption: "Teaser image caption"
     url: ""
 
-  abstract: "TODO: add abstract"
+  abstract: "Recommender systems represent one of the most impactful applications of AI in the modern era, shaping everything from global commerce to information consumption. This course offers a comprehensive look into their evolution, navigating the path from classical matrix factorization to current deep learning and the emerging frontiers of neuro-symbolic and agentic approaches. Moving beyond simple accuracy, the curriculum adopts an interdisciplinary lens to tackle systemic challenges, including fairness, transparency, inclusion, and the growing divergence between offline metrics and real-world impact. In light of the EU AI Act, we will critically examine how to build trustworthy systems that align with societal values. Participants will move beyond algorithmic implementation to develop a sophisticated research mindset, equipping them with the conceptual toolbox necessary to navigate and shape the next generation of recommendation technologies."
   bibtex: |
     @article{YourPaperKey2024,
       title={Your Paper Title Here},
@@ -39,8 +37,6 @@ project:
       url={https://your-domain.com/your-project-page}
     }
 ---
-
-Recommender systems represent one of the most impactful applications of AI in the modern era, shaping everything from global commerce to information consumption. This course offers a comprehensive look into their evolution, navigating the path from classical matrix factorization to current deep learning and the emerging frontiers of neuro-symbolic and agentic approaches. Moving beyond simple accuracy, the curriculum adopts an interdisciplinary lens to tackle systemic challenges, including fairness, transparency, inclusion, and the growing divergence between offline metrics and real-world impact. In light of the EU AI Act, we will critically examine how to build trustworthy systems that align with societal values. Participants will move beyond algorithmic implementation to develop a sophisticated research mindset, equipping them with the conceptual toolbox necessary to navigate and shape the next generation of recommendation technologies.
 
 # Structure
 
