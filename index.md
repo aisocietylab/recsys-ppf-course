@@ -37,8 +37,14 @@ project:
     }
 ---
 
-Recommender Systems - Past, Present, and Future (Challenges)
+# Recommender Systems - Past, Present, and Future (Challenges)
 > Website for the ESSAI 2026 RecSys Crash Course
+
+See: https://essai2026.eu/program.php#id-C10
+
+# General Infos
+
+TODO
 
 # Structure
 
