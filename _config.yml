@@ -3,9 +3,9 @@ remote_theme: "aisocietylab/group-website-pages"
 minimal_mistakes_skin: "air" # "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-title: "Test Project"
-name: "Your Name"
-description: "Test website."
+title: "Recommender Systems - Past, Present, and Future (Challenges)"
+name: "Markus Reiter-Haas, Elisabeth Lex"
+description: "Website for the ESSAI 2026 RecSys Crash Course"
 url: https://aisocietylab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # the subpath of your site, e.g. "/blog" (for github.io this should be your repository name!)
 baseurl: "/recsys-ppf-course"
