@@ -40,4 +40,20 @@ project:
     }
 ---
 
-Here goes your project description.
+Recommender systems represent one of the most impactful applications of AI in the modern era, shaping everything from global commerce to information consumption. This course offers a comprehensive look into their evolution, navigating the path from classical matrix factorization to current deep learning and the emerging frontiers of neuro-symbolic and agentic approaches. Moving beyond simple accuracy, the curriculum adopts an interdisciplinary lens to tackle systemic challenges, including fairness, transparency, inclusion, and the growing divergence between offline metrics and real-world impact. In light of the EU AI Act, we will critically examine how to build trustworthy systems that align with societal values. Participants will move beyond algorithmic implementation to develop a sophisticated research mindset, equipping them with the conceptual toolbox necessary to navigate and shape the next generation of recommendation technologies.
+
+# Structure
+
+The course is structured in 4 units.
+
+## Unit 1: Introduction to Recommender Systems and Their History (PAST)
+> This unit will be taught by Prof. Dr. Lex
+
+## Unit 2: Matching Users with Items using Deep Learning (PRESENT)
+> This unit will be taught by Dr. Reiter-Haas
+
+## Unit 3: Considerations beyond Optimizing Predictions (CHALLENGES)
+> This unit will be taught by Prof. Dr. Lex
+
+## Unit 4: Towards Agentic LLMs for Recommendations (FUTURE)
+> This unit will be taught by Dr. Reiter-Haas
